@@ -29,7 +29,7 @@ third_question_answer = "Aladdin"
 """
 
 fourth_question = "What is your favorite animal?"
-fourth_question_answer = "YOUR_ANSWER_HERE"
+fourth_question_answer = "Tiger"
 
 fifth_question = "What is your favorite programming language? (Hint: You can always say Python!!)"
 fifth_question_answer = "YOUR_ANSWER_HERE"
